@@ -275,6 +275,7 @@ The purpose behind this dataset is to train a predictive model that can determin
 - Decision Tree
 - Naive Bayes
 - SVM
+- Perceptron
 ### Ensemble Learning
 - Bagging
 - Voting
