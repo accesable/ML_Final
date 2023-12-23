@@ -300,4 +300,9 @@ The purpose behind this dataset is to train a predictive model that can determin
 #### Feed Foward Neural Network
 #### Reccurent Neural Network
 ### Overfiting
+- Detect Overfitting: StratifiedKFold
+- Prevent Overfitting: StratifiedKFold and Early Stopping
 ### Improve Models
+- finding hyperparameter by using grid view for some models
+- Handle imbalanced data
+- Using StandardScaler instead of MinMaxScaler for Boundary-based models, Neural Networks models
